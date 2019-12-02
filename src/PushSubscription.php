@@ -2,7 +2,7 @@
 
 namespace NotificationChannels\WebPush;
 
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model;
 
 /**
  * @property string $endpoint
